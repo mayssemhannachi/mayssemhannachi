@@ -5,7 +5,7 @@
 🌱 On a journey to explore the world of data and analytics 🌍
 
 💻 Currently dipping my toes into:
-- Learning the basics of Java and Spark 🚀
+- Learning the basics of Hadoop and Spark 🚀
 - Getting started with Python for data analysis 🐍
 - Exploring SQL and NoSQL databases 💾
 - Data visualization with simple charts and graphs 📊
