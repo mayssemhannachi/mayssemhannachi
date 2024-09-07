@@ -1,6 +1,6 @@
 👋 Hi there, I'm Mayssem!
 
-🎓 Second-year Computer Science student 🖥️
+🎓 Third-year Computer Science student 🖥️
 📊 Aspiring Big Data Enthusiast 📈
 🌱 On a journey to explore the world of data and analytics 🌍
 
@@ -8,7 +8,7 @@
 - Learning the basics of Hadoop and Spark 🚀
 - Getting started with Python for data analysis 🐍
 - Exploring SQL and NoSQL databases 💾
-- Data visualization with simple charts and graphs 📊
+- Data visualization with PowerBI 📊
 
 🔍 Eager to learn and excited to connect with fellow enthusiasts. Let's learn and grow together!
 
